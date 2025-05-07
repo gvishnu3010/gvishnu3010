@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gvishnu3010
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning the Python Programming Language
+- 🌱 I’m currently learning the C++ Programming Language
 - 💞️ I’m looking to collaborate on any projects related to programming or data analytics  
-- 📫 How to reach me:-  E-mail: vgadu@gitam.in
+- 📫 How to reach me:-  E-mail: vishnug3010@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a very good learner
 
